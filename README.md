@@ -4,9 +4,9 @@
 Calculadora feita usando o Expo, também utilizando React Native, feita para ser de agrado visual, mas não funcional. 
 
 ## Requisitos para ser utilizada:
-1. Node JS
-2. Git
-3. VScode
+1. VsCode
+2. Node JS
+3. Git
 4. APP Expo Go
 
 ## Instalando as dependências:
