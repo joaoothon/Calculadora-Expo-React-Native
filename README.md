@@ -25,3 +25,9 @@ Abri o terminal do VsCode e utilizei o comando "npm install -g expo-cli" para in
 3. Galaxy A12
 4. Xiaomi Mi 11i
 5. Samsung Galaxy S20
+
+## Autor
+**João Vitor Othon Silva**
+>**Linkedln:** [João Othon](https://www.linkedin.com/in/jo%C3%A3o-othon-2917422a6/)
+
+>**GitHub:** [João Othon](https://github.com/joaoothon)
