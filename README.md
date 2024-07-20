@@ -1,7 +1,7 @@
 # Calculadora feita com o Expo utilizando React Native
 
 ## Descrição 
-Calculadora feita usando o Expo, também utilizando React Native, feita para ser de agrado visual, mas não funcional. 
+Calculadora feita usando o Expo, também utilizando React Native, feita para ser de agrado visual, mas não funcional. Foi utilizada a predominância da cor roxa na aplicação, pois aplicativos com cores roxas são visualmente agradáveis, e pessoalmente, eu prefiro.
 
 ## Requisitos para ser utilizada:
 1. VsCode
